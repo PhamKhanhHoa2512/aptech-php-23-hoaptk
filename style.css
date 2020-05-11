@@ -1,0 +1,92 @@
+.first {
+    background-color: yellow;
+    display: flex;
+    padding: 20px;
+}
+
+.first-1 {
+    background-color: blue;
+    height: 50px;
+    width: 70%;
+    margin-right: 20px;
+    border: 2px solid white;
+}
+
+.first-2 {
+    background-color: green;
+    height: 50px;
+    width: 30%;
+    border: 2px solid white;
+
+}
+
+.second {
+    background-color: orange;
+    display: flex;
+}
+
+.second-1 {
+    background-color: black;
+    height: 150px;
+    width: 50%;    
+}
+
+.second-1-1 {
+    background-color: blue;
+    height: 30px;
+    margin:30px;
+}
+
+.second-1-2 {
+    background-color: blue;
+    height: 50px;
+    margin:30px;
+}
+.second-2 {
+    background-color: black;
+    height: 150px;
+    width: 50%;
+    display: flex;
+}
+
+
+
+.second-2-1 {
+    background-color: purple;
+    height: 90px;
+    width: 50%;
+    margin: 30px 0;
+
+}
+
+.second-2-2 {
+    background-color: white;
+    height: 90px;
+    width: 50%;
+    margin:30px ;
+}
+
+.third {
+    display: flex;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.third-1,
+.third-2,
+.third-3 {
+    height: 10px;
+    width: 33.33%;
+}
+
+.third-1 {
+    background-color: green;
+}
+
+.third-2 {
+    background-color: blue;
+}
+
+.third-3 {
+    background-color: red;
+}
