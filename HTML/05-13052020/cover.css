@@ -1,0 +1,16 @@
+
+body{
+    height:100vh;
+}
+.menu{
+    border-bottom:3px solid white ;
+}
+.block-1{
+height: 25%;
+}
+.block-2{
+height: 50%;
+}
+.block-3{
+height: 25%;
+}

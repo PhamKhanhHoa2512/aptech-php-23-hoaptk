@@ -1,0 +1,29 @@
+
+.block-1{
+    height: 200px;
+}
+.col-8 {
+    height: 100px;
+}
+.col-4{
+    height: 100px;
+}
+
+.block-2{
+    height: 300px;
+}
+.col-6{
+    height: 100px;
+    background-color: cyan;
+}
+/* .col-3{
+    height: 290px;
+} */
+.left{
+    height: 250px;
+    background-color: darkorange;
+}
+.right{
+    height: 250px;
+    background-color: darkseagreen;
+}

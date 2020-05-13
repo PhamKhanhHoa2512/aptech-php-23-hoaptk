@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+
+h1 {
+    background-color: antiquewhite;
+    color: brown;
+}
+li {
+    color:red;
+    font-size: 20px;
+}
+.layout-header{
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
+.div-cha{
+    display: flex;
+}
+.div-thu-nhat{
+    width: 25%;
+    height: auto;
+}
+
+.div-thu-hai{
+    width: 75%;
+    height: auto;
+}

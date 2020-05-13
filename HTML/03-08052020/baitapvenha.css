@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    background-color: grey;
+}
+
+.thu-nhat {  
+    display: flex;
+    height:50px;
+    background-color: yellow;
+}
+
+.thu-nhat-blue   { 
+    width:70%;
+    height:50px;
+    background-color: blue;
+}
+
+.thu-nhat-green {  
+    width:30%;
+    hight:50px;
+    background-color: green;
+    }
+
+.thu-hai {  
+        display: flex;
+        width: 100%;
+        height:50px;
+        }
+    
+    .thu-hai-left   { 
+        width: 50%;
+        height:100px;
+        background-color: pink;
+    }
+        .left-1 {   
+            height:50px;
+            background-color: peru;
+     }
+         .left-2 {   
+            height:50px;
+            background-color: black;
+    }
+    .thu-hai-right {   
+        display: flex;
+        width: 50%;
+        height:100px;
+        background-color: red;
+    }
+        .right-1 {
+            width: 50%;
+            background-color: blueviolet;
+        }
+        .right-2 {
+            width:50%;
+            background-color: cornflowerblue;
+        }
+    
+
