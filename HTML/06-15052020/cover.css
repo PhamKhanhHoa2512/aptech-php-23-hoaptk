@@ -1,0 +1,29 @@
+
+body{
+    height:100vh;
+}
+.menu{
+    border-bottom:3px solid white ;
+}
+.block-1{
+height: 10%;
+}
+.block-2{
+height: 80%;
+}
+.block-3{
+height: 10%;
+}
+.menu{  
+margin-right: 7px;
+text-decoration-color: none;
+}
+.btn {  
+height:100px;
+weight:200px;
+background-color: black;
+}
+a:hover{
+text-decoration:none;
+border-bottom-color:white;
+}

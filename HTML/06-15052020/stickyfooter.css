@@ -1,0 +1,10 @@
+body{
+    height:100%;
+}
+.block-1{   
+    height: 70%;
+}
+.block-2{   
+    height: 30%;
+    position: sticky;
+}
