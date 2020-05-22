@@ -1,0 +1,12 @@
+.row{
+    height: 100vh;
+}
+.col-6{ 
+    height: 20%;
+}
+.col-4{ 
+    height: 20%;
+}
+.col-2{ 
+    height: 20%;
+}

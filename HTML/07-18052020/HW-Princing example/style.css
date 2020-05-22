@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+}
+
+li{ 
+    list-style: none;;
+}
+.header {
+    height: 10%;
+}
+
+.body-first{
+    height: 30%;
+}
+.body-second{
+    height: 40%;
+}
+a{  
+    color:gray;
+}
+
+a hover:{
+    color:red;
+}
+
+.footer{
+    height: 10%;
+}
+
+.footer-border{
+    height: 50px;
+    width: 50px;
+}
+

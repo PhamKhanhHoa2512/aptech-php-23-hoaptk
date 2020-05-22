@@ -1,0 +1,27 @@
+*{
+
+}
+body{
+    height: 100vh;
+}
+.header{    
+    height: 20%;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    text:white;
+    border-radius: 5%;
+}
+.content{
+    height: 50%;
+}
+
+.checkbox-bnt{
+    display: flex;
+}
+.sign-in-btn{
+    height: 100px;
+    width: 500px;
+}

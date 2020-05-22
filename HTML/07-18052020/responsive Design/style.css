@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+}
+.tong{
+    margin: 50px 50px;
+}
+
+.header {
+    height: 10%;
+
+}
+.content-1{
+    height: 30%;
+}
+.content-main{
+    margin: 50px 0;
+}
+
+.button{
+}
+
+.content-2{
+    height: 50%;
+}
+
+.footer{
+    height: 10%;
+}
