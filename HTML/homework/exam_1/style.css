@@ -1,0 +1,34 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+
+}
+
+ul li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.block_5 a{
+    color:gray;
+}
+
+.block_5{
+    color:gray;
+}
+
+
+.block_6 {
+    color:gray;
+}
+
+.footer_icon{
+    width:15rem;
+}
+
+.card-Footer{   
+    margin-bottom: 10px;
+}
